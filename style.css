@@ -1,0 +1,21 @@
+h1{
+    color : blue;
+}
+h2{
+    color: red;
+}
+.header{
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    background-color: coral;
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    background-color:cadetblue;
+    display: flex;
+    justify-content: space-between;
+}
